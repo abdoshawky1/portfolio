@@ -2,7 +2,7 @@
 
 Personal portfolio site for a senior frontend developer based in Cairo. One page: pitch, three demo projects with live links and source, about and skills, contact.
 
-**Live site:** _add link after deploy_
+**Live site:** https://portfolio-sable-nine-mdl9fa0pgi.vercel.app
 
 ## The projects it links to
 
