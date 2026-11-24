@@ -39,7 +39,7 @@ export default function App() {
           <div className="about">
             <div>
               <p>I am a senior frontend developer with four years of professional React experience. At work I build large React and Redux applications, improve performance, review code and mentor junior developers. Before that I freelanced on dashboards and internal tools.</p>
-              <p>My strongest niche is interactive maps: OpenLayers, Mapbox and ArcGIS interfaces, where performance and clear UI matter most.</p>
+              <p>My strongest niche is interactive maps. At Penta-b I build GIS and map interfaces: map workflow plugins, water utility dashboards, dispatching and digital twin tools, using OpenLayers, Mapbox and ArcGIS.</p>
               <h3>Experience</h3>
               <ul className="jobs">
                 {experience.map((j) => (
