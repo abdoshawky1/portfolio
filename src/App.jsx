@@ -30,7 +30,7 @@ export default function App() {
 
         <section id="work" className="wrap">
           <h2>Selected work</h2>
-          <p className="muted intro">Three demo products I built to show how I structure, test and ship a React app. Each one links to a live version and its source. They are demos, and each README says exactly what is simplified.</p>
+          <p className="muted intro">Four demo products I built to show how I structure, test and ship a React app. Each one links to a live version and its source. They are demos, and each README says exactly what is simplified.</p>
           <div className="projects">{projects.map((p) => <ProjectCard key={p.id} project={p} />)}</div>
         </section>
 

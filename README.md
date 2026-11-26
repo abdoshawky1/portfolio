@@ -8,6 +8,7 @@ Personal portfolio site for a senior frontend developer based in Cairo. One page
 
 | Project | What it shows | Live | Code |
 | --- | --- | --- | --- |
+| Aqua Dispatch | GIS: OpenLayers map, crew assignment, tested geo maths | [demo](https://aqua-dispatch-hazel.vercel.app) | [repo](https://github.com/abdoshawky1/aqua-dispatch) |
 | Orbit Admin | Dashboard: data tables, charts, filters, protected routes | [demo](https://orbit-admin-cyan.vercel.app) | [repo](https://github.com/abdoshawky1/orbit-admin) |
 | Orbit Shop | Storefront: catalog, cart, stock rules, checkout | [demo](https://orbit-shop-one.vercel.app) | [repo](https://github.com/abdoshawky1/orbit-shop) |
 | Nile Smile Booking | Booking flow with slot logic and an admin view | [demo](https://nile-smile-booking.vercel.app) | [repo](https://github.com/abdoshawky1/nile-smile-booking) |

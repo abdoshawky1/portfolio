@@ -23,6 +23,18 @@ export const experience = [
 // Demo projects built for this portfolio. They are labelled as demos on purpose.
 export const projects = [
   {
+    id: 'aqua-dispatch',
+    name: 'Aqua Dispatch',
+    kind: 'GIS map app',
+    summary: 'A water utility dispatch map built with OpenLayers: incidents and crews on a live map, a pipe network layer, and nearest-crew assignment by real great-circle distance. It mirrors the kind of GIS interface I build at Penta-b.',
+    highlights: ['Distance maths tested (haversine, not degrees)', 'Dispatch rules enforced outside the UI', 'Map layers, filters and marker selection'],
+    stack: ['React', 'OpenLayers', 'Vite', 'OpenStreetMap'],
+    live: 'https://aqua-dispatch-hazel.vercel.app',
+    code: 'https://github.com/abdoshawky1/aqua-dispatch',
+    image: '/shots/aqua-dispatch.jpg',
+    note: 'Demo with invented data. It contains nothing from my employer or its clients.',
+  },
+  {
     id: 'orbit-admin',
     name: 'Orbit Admin',
     kind: 'Admin dashboard',
