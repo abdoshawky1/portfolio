@@ -2,7 +2,7 @@ export default function ProjectCard({ project: p }) {
   return (
     <article className="project">
       <a href={p.live} className="shot" target="_blank" rel="noreferrer" aria-label={`Open live demo of ${p.name}`}>
-        <img src={p.image} alt={`Screenshot of ${p.name}`} loading="lazy" width="960" height="600" />
+        <img src={p.image} alt={`Screenshot of ${p.name}`} width="960" height="600" decoding="async" />
       </a>
       <div className="project-body">
         <p className="eyebrow">{p.kind}</p>
